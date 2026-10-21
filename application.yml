@@ -1,4 +1,4 @@
 app:
   name: application
   info: hello from the config server , you have fetched the configurations successfully!
-  additional: we are happy to inform you that you are connected to the configuration server and able to fetch the configurations
+  additional: changing the requirements and reflecting it 
