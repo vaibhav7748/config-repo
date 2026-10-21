@@ -1,4 +1,5 @@
 app:
   name: application
   info: hello from the config server , you have fetched the configurations successfully!
-  additional: changing the requirements and reflecting it 
+  additional: changing the requirements and reflecting it again
+  
