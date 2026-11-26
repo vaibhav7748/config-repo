@@ -1,4 +1,6 @@
+
 app:
-  name: esign 3.3
-  info: cdac's own esignature platform with own kyc verification 
-  strategy: register first and then use
+  message: "Hello from eSign 3.3 centralized configuration"
+  version: "3.3"
+  signing:
+    max-document-size-mb: 25
