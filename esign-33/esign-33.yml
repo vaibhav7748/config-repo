@@ -3,8 +3,9 @@ app:
   message: "Hello from eSign 3.3 centralized configuration"
   version: "3.3"
   signing:
-    max-document-size-mb: 25
-  spring:
+    max-document-size-mb: 30
+
+spring:
   rabbitmq:
     username: pocuser
     password: pocpassword
