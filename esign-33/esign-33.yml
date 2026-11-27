@@ -1,6 +1,6 @@
 
 app:
-  message: "Hello from eSign 3.3 centralized configuration, is bus getting refreshed properly ?"
+  message: "Hello from eSign 3.3 centralized configuration, and we are heading towards end goal"
   version: "3.3"
   signing:
     max-document-size-mb: 30
