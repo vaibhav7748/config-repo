@@ -1,6 +1,6 @@
 
 app:
-  message: "Hello from eSign 3.3 centralized configuration, is this working on point ?"
+  message: "Hello from eSign 3.3 centralized configuration, everything is working fne and we are good doing it "
   version: "3.3"
   signing:
     max-document-size-mb: 30
