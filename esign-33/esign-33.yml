@@ -4,3 +4,7 @@ app:
   version: "3.3"
   signing:
     max-document-size-mb: 25
+  spring:
+  rabbitmq:
+    username: pocuser
+    password: pocpassword
